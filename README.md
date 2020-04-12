@@ -1,9 +1,6 @@
-# Tic Tac Toe
+# Jogo da Velha (Tic Tac Toe)
 
-Created by [#CDFTV channel](https://www.youtube.com/codigofontetv).  
-This game was built to make an integration between our Youtube Channel and the subscribers.
+O jogo da velha ou jogo do galo ou três em linha é um jogo e passatempo popular. 
 
-Feel free to contribute with improvements and features. Your PRs will be evaluated. 
-
-Cheers!  
-Gabriel & Vanessa
+É um jogo de regras extremamente simples, que não traz grandes dificuldades para seus jogadores 
+e é facilmente aprendido.
